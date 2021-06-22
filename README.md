@@ -1,4 +1,4 @@
 # Projects 
 # Hi 
-This repository is creatde to depict my basic projects to showcase on resume.
+This repository is created to show my basic projects .
 
