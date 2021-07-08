@@ -1,6 +1,7 @@
 # Projects 
-# Hi This repository is meant to showcase
-# my projects ideas and skills .
+# Hi 
+# This Repository is meant to showcase
+# My Projects Ideas and Skills .
 
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
