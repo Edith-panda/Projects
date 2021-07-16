@@ -1,0 +1,43 @@
+
+The Bitcoin’s price varies similarly to a stock albeit in another way. There are some
+algorithms used on stock market data for price prediction but the parameters affecting Bitcoin
+are distinctive. Therefore, it is essential to expect the price of Bitcoin in order that correct
+investment decisions can be made. The price of Bitcoin does now not rely on at the business
+events or intervening government in contrast to the stock market. Hence, to expect the value
+we feel it is essential to leverage machine learning technology to expect the rate of Bitcoin.
+Bitcoin Price Prediction is a machine learning project which aims to predict the future using trained data and some algorithms.
+
+1.4. Problem Statements
+
+1. Bitcoin is the most complex cryptocurrency which value change in every second.
+2. Investing money for Bitcoin is more risk and less profit.
+
+1.5. Project Objectives
+
+1. To predict bitcoin price with maximum efficiency using LSTM and ARIMA.
+2. To compare between ARIMA and LSTM to find which is the best efficient algorithm
+for predicting bitcoin price.
+3. To ensure less risk and more profit for investors.
+
+1.6. Project Scope
+Today Bitcoin is a secure transaction system that has a valuable impact on capital. They
+are awarded under a restriction in which customers offer their computer authority to register
+and listing trades with the bitcoins. The purchase and sale of Bitcoins in different currencies
+is carried out in an alternative workplace where "purchase" or "sell" requests are placed in the
+ordered e-book. "Buy" or "bid" offers to talk about the purpose of purchasing certain Bitcoins
+measures at a few costs while "provide" or "ask" offers to talk about the expectation of
+providing certain Bitcoins measures at a certain cost. The change is ordered through the
+coordination of pricing requests from the arrangement of e-books to a valid exchange between
+customers and suppliers.
+
+
+Recurrent neural networks (RNN) are the state-of-the-art algorithm for sequential data and are used by Apple’s Siri and Google’s voice search. 
+It is an algorithm that remembers its input due to its internal memory, which makes the algorithm perfectly suited for solving machine learning problems involving sequential data.
+It is one of the algorithms that have great results in deep learning. In this article, it is discussed how to predict the price of Bitcoin by analyzing the information of the last 6 years.
+We implemented a simple model that helps us better understand how time series works using Python and RNNs.
+
+What is the LSTM model exactly? In short, it’s a form of recurrent neural network capable of learning long-term dependencies. 
+In a similar fashion that we use prior experience to inform (preferably better) future outcomes, 
+LSTM models use update gates and forget gates to randomly remember and forget pieces of historical information to inform their prediction.
+
+Split the dataset up into a training and test set, and standardise its features.
