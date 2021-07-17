@@ -2,6 +2,8 @@
 # Hiii ✌ 
 # This Repository is meant to showcase
 # My Projects Ideas and Skills .
+Language used in this projets are c++, python 
+My projects are mostly based on machine learning , short projects using python .
 
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
