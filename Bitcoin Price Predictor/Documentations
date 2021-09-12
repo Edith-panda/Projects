@@ -81,9 +81,6 @@ Training this model is something you can do even without a GPU, the amount of da
 it comes to more advanced models with more granular information, it can take hours or days to train.
 
 
- 
-
-
 Bitcoin price prediction
 Conclusion
 RNNs and LSTM are excellent technologies and have great architectures that can be used to analyze and predict time-series information. The focus of 
